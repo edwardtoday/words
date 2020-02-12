@@ -2,7 +2,9 @@
 
 ![Screen Shot 2020-01-28 at 23.47.34](assets/Screen%20Shot%202020-01-28%20at%2023.47.34.png)
 
-前文[^1]写了第一和第二集。
+[前文](https://edwardtoday.github.io/words/Chernobyl%20S01%E5%9B%9E%E9%A1%BEE01-E02)[^1]写了第一和第二集。
+
+[^1]: Chernobyl S01 回顾 E01-E02, https://edwardtoday.github.io/words/Chernobyl%20S01%E5%9B%9E%E9%A1%BEE01-E02
 
 ## E03
 
