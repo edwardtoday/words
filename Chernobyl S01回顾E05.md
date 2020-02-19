@@ -88,8 +88,9 @@
 
 最近（2020春）也有不少死于病毒性肺炎的，或是连病毒性肺炎的诊断都拿不到，就默默去世了。
 
+<video controls><source src="assets/Chernobyl.memories.1080p.m4v" type="video/mp4"></video>
 
-<video src="assets/Chernobyl.memories.1080p.m4v"/>
+<video controls><source src="https://media.githubusercontent.com/media/edwardtoday/words/master/assets/Chernobyl.memories.1080p.m4v" type="video/mp4"></video>
 
 
 
